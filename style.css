@@ -1,0 +1,116 @@
+body {
+    background-color: white;
+    font-family: 'Raleway', sans-serif;
+    margin: 0;
+  }
+.navigation ul {
+    list-style: none;
+     text-align: center; 
+     font-size: 40px;
+     line-height: 75px;
+     font-weight: 75;
+     color: rgb(75, 73, 73);
+     padding: 0;
+}
+.header {
+    font-weight:bold;
+    color: rgb(27, 27, 124);
+}
+
+.center {
+    text-align: center;
+}
+.banner {
+    background-image: url("http://seattlemag.com/sites/default/files/field/image/Opener_1.jpg");
+    height: 1000px;
+    background-size: cover;
+}
+.banner h1 {
+    background-color: white;
+    position: relative;
+    top: 500px;
+    border: 3px solid rgb(255, 255, 255);
+    border-radius: 15px;
+    display: inline-block;
+    opacity: 0.8;
+    padding: 7px;
+}
+.banner h2 {
+    color: white;
+    background-color: rgb(27, 27, 124);
+    position: relative;
+    top: 480px;
+    border: 3px solid rgb(27, 27, 124);
+    border-radius: 15px;
+    display: inline-block;
+    padding: 5px;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+.location-button a {
+    color: white;
+}
+a:hover {
+    color: rgb(90, 84, 84);
+    text-decoration: underline;
+    text-decoration-color: black;
+}
+.about {
+    padding: 0;
+    line-height: 35px;
+    background-color: rgb(27, 27, 124);
+    color: white;
+    padding-top: 1px;
+    padding-bottom: 25px;
+    font-size: 22px;
+}
+.about h3 {
+    position: relative;
+    top: 15px;
+}
+.p1 {
+    position: relative;
+}
+.form-spacing {
+    line-height: 30px;
+}
+textarea {
+    font-family: arial;
+    font-weight: 500;
+    font-size: 16px;
+}
+.contact-spacing {
+    line-height: 20px;
+}
+#contact-box {
+    padding: 5px;
+}
+#submit {
+    padding: 3px;
+    margin-top: 15px;
+    color: white;
+    background-color: rgb(27, 27, 124);
+    border: 2px solid rgb(27, 27, 124);
+    border-radius: 10px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 1000;
+    font-size: 16px;
+    height: 40px;
+    width: 70px;
+    display:inline-block
+}
+hr {
+    width: 1300px;
+}
+.location-spacing {
+    line-height: 20px;
+}
+.paragraph-spacing-locations {
+    font-weight: bold;
+    display: inline-block;
+    text-align: center;
+    width: 700px;
+    line-height: 30px;
+}

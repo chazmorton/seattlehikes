@@ -1,2 +1,2 @@
-# seattlehikes
-seattle hikes website to practice and display my html and css. Will implement javascript in the future.
+# Seattle Hikes
+Seattle hikes website to practice and display my html and css. Will implement javascript in the future.
